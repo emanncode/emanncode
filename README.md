@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://emanncode.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://github.com/Emann-Code-01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://github.com/emanncode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
   <a href="mailto:olajubajeifeoluwa93@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://x.com/emanncodedev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
@@ -125,7 +125,7 @@ Mobile app for device management (iOS + Android).
 
 📩 Email: olajubajeifeoluwa93@gmail.com  
 🌐 Portfolio: https://emanncode.vercel.app  
-🐙 GitHub: https://github.com/Emann-Code-01  
+🐙 GitHub: https://github.com/emanncode
 🐦 X: https://x.com/emanncodedev  
 
 ---
