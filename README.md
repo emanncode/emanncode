@@ -10,7 +10,7 @@
 
 <br/>
 
-<a href="https://emanncode.vercel.app">
+<a href="https://emann-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
