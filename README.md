@@ -1,12 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:312E81,100:7C3AED&text=EmannCode&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%7C%20Mobile%20Engineer&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:312E81,100:7C3AED&text=EmannCode&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Frontend%20%7C%20Backend%20%7C%20Mobile&descAlign=62&descAlignY=51"/>
 
 <div align="center">
 
 # Emmanuel — EmannCode
 
-### Frontend & Mobile Engineer building scalable, animated and production-ready experiences.
+### Full-Stack Developer building scalable, animated and production-ready experiences across web and mobile.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=700&lines=React+%7C+Vue+%7C+Next.js+Developer;React+Native+%7C+Expo+Engineer;Building+Modern+Digital+Experiences;UI+Animation+%26+Frontend+Architecture;TypeScript+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=700&lines=React+%7C+Vue+%7C+Next.js+%7C+PHP+%7C+Mobile+Developer"/>
 
 <br/>
 
@@ -28,16 +28,17 @@
 
 # ⚡ About Me
 
-Frontend & Mobile Engineer with **3+ years of experience** building modern web and mobile applications.
+Full-Stack Developer with **3+ years of experience** building modern web and mobile applications. I specialize in both front-end and back-end development, with expertise in PHP-based backend systems and their integration with dynamic frontend interfaces.
 
 I specialize in:
 - scalable frontend architecture
+- PHP backend and server-side components
 - animated interfaces
 - cross-platform mobile apps
-- backend integrations
 - production-ready UI systems
+- REST API design and integration
 
-Currently focused on creating high-quality digital experiences using modern JavaScript ecosystems.
+Currently focused on creating high-quality digital experiences using modern JavaScript ecosystems combined with robust PHP backend solutions.
 
 ---
 
@@ -109,31 +110,31 @@ Mobile app for MiFi device management across iOS and Android.
 
 # 💼 Experience
 
-## 🟣 Browpay — Frontend Engineer Intern
+## 🟣 Browpay — Full-Stack Developer Intern
 `April 2026 — Present`
 
-- Built merchant dashboard interfaces
-- Integrated real-time payment APIs
-- Developed reusable UI systems
-- Improved responsiveness and accessibility
+- Built merchant dashboard interfaces and backend components
+- Integrated real-time payment APIs with PHP backend services
+- Developed reusable UI systems and server-side logic
+- Improved responsiveness, accessibility, and performance
 
 ---
 
-## 🔵 Rouvoo — Frontend Developer Intern
+## 🔵 Rouvoo — Full-Stack Developer Intern
 `December 2025 — Present`
 
-- Built scalable frontend systems
-- Integrated backend APIs
+- Built scalable frontend and backend systems
+- Developed PHP APIs and integrated with frontend applications
 - Improved performance and UI consistency
 
 ---
 
-## 🟢 Thegigs.co — Frontend Developer Intern
+## 🟢 Thegigs.co — Front-End & Back-End Developer Intern
 `April 2025 — December 2025`
 
 - Converted Figma designs into production-ready interfaces
-- Built reusable components
-- Fixed responsive and cross-browser issues
+- Built reusable components and backend integrations
+- Fixed responsive, cross-browser, and server-side issues
 
 ---
 
