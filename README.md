@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Emmanuel — EmannCode
+# Ifeoluwa Olajubaje Emmanuel — EmannCode
 
 ### Full-Stack Developer building scalable, animated and production-ready experiences across web and mobile.
 
