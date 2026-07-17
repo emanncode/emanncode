@@ -110,7 +110,7 @@ Mobile app for MiFi device management across iOS and Android.
 
 # 💼 Experience
 
-## 🟣 Browpay — Full-Stack Developer Intern
+## 🟣 Browpay — Front-End Developer Intern
 `April 2026 — Present`
 
 - Built merchant dashboard interfaces and backend components
@@ -120,7 +120,7 @@ Mobile app for MiFi device management across iOS and Android.
 
 ---
 
-## 🔵 Rouvoo — Full-Stack Developer Intern
+## 🔵 Rouvoo — Front-End & PHP Developer Intern
 `December 2025 — Present`
 
 - Built scalable frontend and backend systems
@@ -129,7 +129,7 @@ Mobile app for MiFi device management across iOS and Android.
 
 ---
 
-## 🟢 Thegigs.co — Front-End & Back-End Developer Intern
+## 🟢 Thegigs.co — Front-End Developer Intern
 `April 2025 — December 2025`
 
 - Converted Figma designs into production-ready interfaces
